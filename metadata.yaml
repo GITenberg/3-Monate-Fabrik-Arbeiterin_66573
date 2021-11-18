@@ -1,0 +1,32 @@
+_repo: 3-Monate-Fabrik-Arbeiterin_66573
+_version: 0.0.1
+alternative_title: Dreieinhalb Monate Fabrik-Arbeiterin
+creator:
+  author:
+    agent_name: Wettstein-Adelt, Minna
+    alias: Adelt-Duc, Mina
+    birthdate: 1869
+    gutenberg_agent_id: '53873'
+    url: http://www.gutenberg.org/2009/agents/53873
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Minna_Wettstein-Adelt
+    - https://de.wikipedia.org/wiki/Minna_Wettstein-Adelt
+description: ''
+gutenberg_issued: '2021-10-20'
+identifiers:
+  gutenberg: '66573'
+  lccn: '43027865'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Employment'
+- !lcsh 'Women -- Employment -- Germany -- Saxony'
+- !lcc 'HD'
+- !lcsh 'Women''s rights -- Germany'
+- !lcsh 'Factories -- Employees'
+- GITenberg
+title: 3½ Monate Fabrik-Arbeiterin
+url: http://www.gutenberg.org/ebooks/66573
