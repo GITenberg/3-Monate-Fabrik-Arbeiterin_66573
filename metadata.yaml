@@ -1,6 +1,9 @@
 _repo: 3-Monate-Fabrik-Arbeiterin_66573
 _version: 0.1.0
 alternative_title: Dreieinhalb Monate Fabrik-Arbeiterin
+covers:
+- cover_type: archival
+  image_path: 66573-h/images/cover.jpg
 creator:
   author:
     agent_name: Wettstein-Adelt, Minna
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Minna_Wettstein-Adelt
     - https://de.wikipedia.org/wiki/Minna_Wettstein-Adelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66573#3-Monate-Fabrik-Arbeiterin
 gutenberg_issued: '2021-10-20'
 identifiers:
   gutenberg: '66573'
